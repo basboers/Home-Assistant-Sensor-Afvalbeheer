@@ -37,6 +37,7 @@ Description:
   - RMN
   - Spaarnelanden
   - Venray
+  - Valkenswaard
   - Waalre
   - ZRD
 
@@ -126,6 +127,7 @@ COLLECTOR_URL = {
     'rmn': 'https://inzamelschema.rmn.nl',
     'spaarnelanden': 'https://afvalwijzer.spaarnelanden.nl',
     'venray': 'https://afvalkalender.venray.nl',
+    'valkenswaard': 'https://afvalkalender.cure-afvalbeheer.nl',
     'waalre': 'https://afvalkalender.waalre.nl',
     'zrd': 'https://afvalkalender.zrd.nl',
 }
